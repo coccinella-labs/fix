@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/basebin/fix/main/.github/assets/thumbnail.png" alt="fix" width="100%">
+</p>
+
 # Fix GitHub App
 
 This GitHub App automatically fixes commit messages by removing "add " or "Add " prefixes when pushes are made to configured repositories. It listens for push events via webhooks, clones the repository, rewrites the commit history to clean up messages, and force pushes the changes back, ensuring consistent and clean commit logs without manual intervention.
