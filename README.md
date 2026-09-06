@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/basebin/fix/main/.github/assets/thumbnail.png" alt="fix" width="100%">
+  <img src="https://raw.githubusercontent.com/Coccinella-Labs/fix/main/.github/assets/thumbnail.png" alt="fix" width="100%">
 </p>
 
 # Fix GitHub App
